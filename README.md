@@ -4,4 +4,5 @@ This is a port of Super Mario Bros to the Nintendo Switch. This port was written
 
 The port lacks sound and it has a below decent performance but other than that...it is great!! You can run the nro release on your nintendo switch or on the yuzu emulator. You can build it if you have devkit pro.
 
+Right here is a gif of the port on an emulator.
 ![Alt text](Animation.gif?raw=true "Title")
